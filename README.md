@@ -3,7 +3,7 @@
 A custom Android launcher built with Kotlin and Jetpack Compose, integrating multiple built-in app modules into a single fast and responsive launcher experience.
 
 <p align="center">
-  <img src="screenshots/CodeByAman.png" width="95%" />
+  <img src="screenshots/CodeByAman.jpg" width="95%" />
 </p>
 
 ## Overview

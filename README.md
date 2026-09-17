@@ -3,6 +3,10 @@
 A custom Android launcher built with Kotlin and Jetpack Compose, integrating multiple built-in app modules into a single fast and responsive launcher experience.
 
 <p align="center">
+  <img src="screenshots/Presentation.png" width="95%" />
+</p>
+
+<p align="center">
   <img src="screenshots/CodeByAman.jpg" width="95%" />
 </p>
 
@@ -12,13 +16,32 @@ Launcher Tuesday is more than a traditional launcher. It provides a unified Andr
 
 The integrated modules include:
 
+- Phone
 - Gallery
+- Message
+- Browser
 - Calculator
 - Clock
-- Browser
-- Messages
 - Notepad
 - QuickScan
+- Files
+- Calendar
+- Camera
+- Contacts
+- Compass
+- PDF
+- Recorder
+- Storage
+- Settings
+- Flashlight
+- Security
+- Screen Recorder
+- Music
+- Battery
+- Password Generator
+- Magnifier
+- Smart Calculator
+- Formatter - Text Formatter
 
 These are not separate applications that users need to download individually. The required functionality is bundled into the launcher and available directly from the home screen.
 
@@ -27,7 +50,7 @@ The launcher was designed to remain fast, responsive, and smooth even with multi
 ## Key Features
 
 - Custom Android launcher experience
-- Integrated Gallery, Calculator, Clock, Browser, Messages, Notepad, and QR functionality
+- Integrated Phone, Gallery, Message, Browser, Calculator, Clock, Notepad, QuickScan, Files, Calendar, Camera, Contacts, Compass, PDF, Recorder, Storage, Settings, Flashlight, Security, Screen Recorder, Music, Battery, Password Generator, Magnifier, Smart Calculator, and Text Formatter
 - Built-in application modules available directly from the launcher home screen
 - No separate installation required for integrated modules
 - Client-defined app arrangement and launcher behavior
@@ -98,38 +121,16 @@ Instead of requiring users to install several separate applications, the client 
 
 This provided a simpler installation and user experience while keeping the individual application features organized within the project.
 
-## Screenshots
-
-<p align="center">
-  <img src="screenshots/Screenshot_1.jpg" width="30%" />
-  <img src="screenshots/Screenshot_2.jpg" width="30%" />
-  <img src="screenshots/Screenshot_3.jpg" width="30%" />
-</p>
-
-<p align="center">
-  <img src="screenshots/Screenshot_4.jpg" width="30%" />
-  <img src="screenshots/Screenshot_5.jpg" width="30%" />
-  <img src="screenshots/Screenshot_6.jpg" width="30%" />
-</p>
-
-<p align="center">
-  <img src="screenshots/Screenshot_7.jpg" width="30%" />
-  <img src="screenshots/Screenshot_8.jpg" width="30%" />
-  <img src="screenshots/Screenshot_9.jpg" width="30%" />
-</p>
-
-View all screenshots in the [screenshots folder](./screenshots/).
-
 ## Source Code
 
 This is a client project, so the source code is not publicly available.
 
-The project overview and screenshots are shared to demonstrate my Android development, UI engineering, application integration, and performance-focused development experience.
+The project overview and presentation are shared to demonstrate my Android development, UI engineering, application integration, and performance-focused development experience.
 
 ## Developer
 
 **Aman Sharma**
 
-Android Developer | Kotlin | Jetpack Compose
+Android Developer | Kotlin | Jetpack Compose | MVVM
 
 [LinkedIn](https://www.linkedin.com/in/engineer-aman-sharma)

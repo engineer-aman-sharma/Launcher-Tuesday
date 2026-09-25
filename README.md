@@ -111,6 +111,11 @@ My work included:
 - UI states and user interactions
 - Integration of previously developed application functionality into the launcher
 
+## Project Details
+
+- Package Name: `com.launcher.app5`
+- Status: Client Project — UI, features, and availability may change in the future.
+
 ## Client Requirements
 
 The launcher was developed for a client with specific requirements around the home screen and integrated applications.
